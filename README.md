@@ -1,7 +1,7 @@
 # Adding a New Op in Tensorflow (CPU and GPU)
 This Op computes the double of an input tensor (2 * input)
 
-Tensorflow 1.11 built from source.
+Tensorflow 1.11 built from source with GPU support.
 
 Ubuntu 16.04.
 
