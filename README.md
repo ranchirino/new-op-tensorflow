@@ -14,4 +14,4 @@ bazel build --config opt //tensorflow/core/user_ops:double_out.so
 ```
 
 #### Use the op
-The jupyter file shows how to use the op in Python.
+The jupyter file (.ipynb) shows how to use the op in Python.
